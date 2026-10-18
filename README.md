@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is myfirst Git Repository 
-Auther :Neetu pant
+This is myfirst Git Repository .
+<br>
+Author :Neetu pant
